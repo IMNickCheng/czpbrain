@@ -1,0 +1,10 @@
+# 忽略敏感与临时文件
+*.key
+*.pem
+*.env
+.DS_Store
+Thumbs.db
+node_modules/
+temp/
+.temp/
+*.log
